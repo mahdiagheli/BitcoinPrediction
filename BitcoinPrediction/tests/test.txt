@@ -1,0 +1,272 @@
+saved sclaer_x to: scaler_x.pkl
+saved scaler_y to : scaler_y.pkl
+saved sclaer_x to: scaler_x.pkl
+saved scaler_y to : scaler_y.pkl
+ epoch 1/1000 , train loss: 0.2450 , val loss; 0.3593505546450615
+ epoch 2/1000 , train loss: 0.2174 , val loss; 0.06202247211088737
+ epoch 3/1000 , train loss: 0.1563 , val loss; 0.9508257607618967
+ epoch 4/1000 , train loss: 0.0817 , val loss; 0.02185310151738425
+ epoch 5/1000 , train loss: 0.0552 , val loss; 0.8155195812384287
+ epoch 6/1000 , train loss: 0.0626 , val loss; 1.331707775592804
+ epoch 7/1000 , train loss: 0.0577 , val loss; 0.5998678853114446
+ epoch 8/1000 , train loss: 0.0566 , val loss; 0.06679602557172377
+ epoch 9/1000 , train loss: 0.0615 , val loss; 0.773593932390213
+ epoch 10/1000 , train loss: 0.0566 , val loss; 0.5885737289985021
+ epoch 11/1000 , train loss: 0.0431 , val loss; 0.009116163244470954
+model saved with val loss: 0.009116163244470954
+ epoch 12/1000 , train loss: 0.0402 , val loss; 0.4104276200135549
+ epoch 13/1000 , train loss: 0.0491 , val loss; 1.324583907922109
+ epoch 14/1000 , train loss: 0.0472 , val loss; 0.11100239927570026
+ epoch 15/1000 , train loss: 0.0431 , val loss; 0.009502455708570778
+ epoch 16/1000 , train loss: 0.0502 , val loss; 1.5895565152168274
+ epoch 17/1000 , train loss: 0.0234 , val loss; 1.7517124215761821
+ epoch 18/1000 , train loss: 0.0416 , val loss; 0.01868796208873391
+ epoch 19/1000 , train loss: 0.0346 , val loss; 0.020589220337569714
+ epoch 20/1000 , train loss: 0.0366 , val loss; 0.01970985314498345
+ epoch 21/1000 , train loss: 0.0561 , val loss; 0.2464798465371132
+ epoch 22/1000 , train loss: 0.0205 , val loss; 0.4293481558561325
+ epoch 23/1000 , train loss: 0.0433 , val loss; 0.012938803682724634
+ epoch 24/1000 , train loss: 0.0193 , val loss; 0.021805716678500175
+ epoch 25/1000 , train loss: 0.0412 , val loss; 0.8326038221518198
+ epoch 26/1000 , train loss: 0.0433 , val loss; 1.2840364972750347
+ epoch 27/1000 , train loss: 0.0466 , val loss; 0.46287956337134045
+ epoch 28/1000 , train loss: 0.0619 , val loss; 1.336957852045695
+ epoch 29/1000 , train loss: 0.0404 , val loss; 0.016608861818288762
+ epoch 30/1000 , train loss: 0.0312 , val loss; 0.6585497359434763
+ epoch 31/1000 , train loss: 0.0228 , val loss; 0.43316606680552167
+ epoch 32/1000 , train loss: 0.0432 , val loss; 0.007159395686661203
+model saved with val loss: 0.007159395686661203
+ epoch 33/1000 , train loss: 0.0212 , val loss; 2.0296102166175842
+ epoch 34/1000 , train loss: 0.0209 , val loss; 0.612227588891983
+ epoch 35/1000 , train loss: 0.0318 , val loss; 0.2093070646127065
+ epoch 36/1000 , train loss: 0.0411 , val loss; 0.1789744757115841
+ epoch 37/1000 , train loss: 0.0245 , val loss; 0.9237364927927653
+ epoch 38/1000 , train loss: 0.0256 , val loss; 1.436661998430888
+ epoch 39/1000 , train loss: 0.0379 , val loss; 0.16117586443821588
+ epoch 40/1000 , train loss: 0.0358 , val loss; 1.4379902084668477
+ epoch 41/1000 , train loss: 0.0373 , val loss; 0.011563629183607796
+ epoch 42/1000 , train loss: 0.0342 , val loss; 1.2695690194765727
+ epoch 43/1000 , train loss: 0.0198 , val loss; 0.42648744583129883
+ epoch 44/1000 , train loss: 0.0423 , val loss; 0.823174238204956
+ epoch 45/1000 , train loss: 0.0194 , val loss; 0.004753411261693448
+model saved with val loss: 0.004753411261693448
+ epoch 46/1000 , train loss: 0.0233 , val loss; 0.12840590750177702
+ epoch 47/1000 , train loss: 0.0307 , val loss; 0.9500768582026163
+ epoch 48/1000 , train loss: 0.0228 , val loss; 0.09752179558078448
+ epoch 49/1000 , train loss: 0.0515 , val loss; 0.11430737748742104
+ epoch 50/1000 , train loss: 0.0333 , val loss; 0.025193881165857118
+ epoch 51/1000 , train loss: 0.0323 , val loss; 0.5511414508024851
+ epoch 52/1000 , train loss: 0.0230 , val loss; 1.2983277638753254
+ epoch 53/1000 , train loss: 0.0241 , val loss; 1.0489030679066975
+ epoch 54/1000 , train loss: 0.0312 , val loss; 1.1297329266866047
+ epoch 55/1000 , train loss: 0.0238 , val loss; 1.179445505142212
+ epoch 56/1000 , train loss: 0.0202 , val loss; 0.4792280048131943
+ epoch 57/1000 , train loss: 0.0471 , val loss; 1.3576056162516277
+ epoch 58/1000 , train loss: 0.0349 , val loss; 0.07693052677980934
+ epoch 59/1000 , train loss: 0.0207 , val loss; 1.2191813389460247
+ epoch 60/1000 , train loss: 0.0219 , val loss; 1.4903072913487752
+ epoch 61/1000 , train loss: 0.0452 , val loss; 0.21013208851218224
+ epoch 62/1000 , train loss: 0.0288 , val loss; 1.123974879582723
+ epoch 63/1000 , train loss: 0.0153 , val loss; 0.04327094585945209
+ epoch 64/1000 , train loss: 0.0221 , val loss; 0.017493068395803373
+ epoch 65/1000 , train loss: 0.0345 , val loss; 0.13774621114134789
+ epoch 66/1000 , train loss: 0.0229 , val loss; 0.7692677875359853
+ epoch 67/1000 , train loss: 0.0260 , val loss; 0.2074169193704923
+ epoch 68/1000 , train loss: 0.0505 , val loss; 3.814970930417379
+ epoch 69/1000 , train loss: 0.0319 , val loss; 0.24629044781128565
+ epoch 70/1000 , train loss: 0.0217 , val loss; 0.010760232922621071
+ epoch 71/1000 , train loss: 0.0291 , val loss; 0.044614306185394526
+ epoch 72/1000 , train loss: 0.0245 , val loss; 0.933836430311203
+ epoch 73/1000 , train loss: 0.0189 , val loss; 3.1359358628590903
+ epoch 74/1000 , train loss: 0.0236 , val loss; 0.10964733532940348
+ epoch 75/1000 , train loss: 0.0218 , val loss; 0.11801912511388461
+ epoch 76/1000 , train loss: 0.0320 , val loss; 3.1168697675069175
+ epoch 77/1000 , train loss: 0.0147 , val loss; 0.09554733522236347
+ epoch 78/1000 , train loss: 0.0216 , val loss; 0.2008467254539331
+ epoch 79/1000 , train loss: 0.0227 , val loss; 0.8043506840864817
+ epoch 80/1000 , train loss: 0.0185 , val loss; 3.763629198074341
+ epoch 81/1000 , train loss: 0.0151 , val loss; 0.27400954564412433
+ epoch 82/1000 , train loss: 0.0262 , val loss; 0.18615351244807243
+ epoch 83/1000 , train loss: 0.0153 , val loss; 0.423908809820811
+ epoch 84/1000 , train loss: 0.0191 , val loss; 0.0487626187192897
+ epoch 85/1000 , train loss: 0.0195 , val loss; 0.016214476452053834
+ epoch 86/1000 , train loss: 0.0254 , val loss; 0.5836842606465021
+ epoch 87/1000 , train loss: 0.0168 , val loss; 0.6870957314968109
+ epoch 88/1000 , train loss: 0.0192 , val loss; 0.1465945914387703
+ epoch 89/1000 , train loss: 0.0148 , val loss; 0.6789234777291616
+ epoch 90/1000 , train loss: 0.0325 , val loss; 0.10730672876040141
+ epoch 91/1000 , train loss: 0.0222 , val loss; 3.3509217898050943
+ epoch 92/1000 , train loss: 0.0206 , val loss; 0.8147633373737335
+ epoch 93/1000 , train loss: 0.0213 , val loss; 0.015041747130453587
+ epoch 94/1000 , train loss: 0.0200 , val loss; 0.19898408402999243
+ epoch 95/1000 , train loss: 0.0246 , val loss; 1.4548579057057698
+ epoch 96/1000 , train loss: 0.0176 , val loss; 0.25426257650057477
+ epoch 97/1000 , train loss: 0.0139 , val loss; 0.03726571255053083
+ epoch 98/1000 , train loss: 0.0273 , val loss; 1.6181425054868062
+ epoch 99/1000 , train loss: 0.0238 , val loss; 0.1722972902158896
+ epoch 100/1000 , train loss: 0.0139 , val loss; 1.5071478684743245
+ epoch 101/1000 , train loss: 0.0257 , val loss; 3.4321072498957315
+ epoch 102/1000 , train loss: 0.0208 , val loss; 0.29157958428064984
+ epoch 103/1000 , train loss: 0.0232 , val loss; 0.5963148325681686
+ epoch 104/1000 , train loss: 0.0244 , val loss; 0.9776595532894135
+ epoch 105/1000 , train loss: 0.0239 , val loss; 0.8468014399210612
+early stopping triggered after 105 epochs
+Test Loss: 0.1359
+MAPE: 24.38%
+Total time: 434.36 seconds
+-------------------------------------------------------------
+x_train rang:-2.877617359161377, 2.852785348892212
+y_train rang:-1.2654787302017212, 0.8977891206741333
+x_test rang:-2.1277847290039062, 29415.57421875
+ y_test rang:0.768333911895752, 1.4247561693191528
+ ------------------------------------------------------------
+ min and max of timestamp:1502928000000----1742515200000
+min and max of open:3188.01----106143.82
+min and max of high:3276.5----109588.0
+min and max of low:2817.0----105321.49
+min and max of close:3189.02----106143.82
+min and max of volume:228.108068----760705.362783
+min and max of close_time:1503014399999----1742601599999999
+min and max of quote_asset_volume:977865.7333321----17465307097.88407
+min and max of number_of_trades:2153----15223589
+min and max of taker_buy_base:56.190141----374775.574085
+min and max of taker_buy_quote:241363.80050245----8783916247.676138
+min and max of ignore:0----0
+min and max of SMA_14:3422.6978571428567----103578.42785714287
+min and max of RSI_14:10.497797370369184----93.45927597449236
+min and max of MACD:-4435.851793146449----6402.010446864906
+min and max of MACD-signal:-4435.851793146449----6402.010446864906
+min and max of MACD-hist:-4435.851793146449----6402.010446864906
+min and max of BB_upper:3637.401000275189----108846.02334956186
+min and max of BB_lower:3637.401000275189----108846.02334956186
+------------------------------------------------------------------
+min and max of timestamp:1502928000000----1742515200000
+min and max of open:8.067152176668047----11.572550245935874
+min and max of high:8.094531058479552----11.604483158450593
+min and max of low:7.943427767876373----11.564772760870598
+min and max of close:8.067468938548874----11.572550245935874
+min and max of volume:5.429819499116379----13.542001390760728
+min and max of close_time:1503014399999----1742601599999999
+min and max of quote_asset_volume:13.79312765261074----23.583482298668372
+min and max of number_of_trades:7.674617497364363----16.538356690746618
+min and max of taker_buy_base:4.028741314464258----12.834082656691763
+min and max of taker_buy_quote:12.394060619907389----22.896188187022883
+min and max of ignore:0----0
+min and max of SMA_14:8.13818436619809----11.548084361808465
+min and max of RSI_14:2.3511654609072283----4.537525790339773
+min and max of MACD:-4435.851793146449----6402.010446864906
+min and max of MACD-signal:-4435.851793146449----6402.010446864906
+min and max of MACD-hist:-4435.851793146449----6402.010446864906
+min and max of BB_upper:8.199024694690182----11.5976895326886
+min and max of BB_lower:8.199024694690182----11.5976895326886
+ x_train rang:-2.877617359161377, 2.852785348892212
+y_train rang:-1.2654787302017212, 0.8977891206741333
+x_test rang:-2.1277847290039062, 3.597879648208618
+ y_test rang:0.768333911895752, 1.4247561693191528
+ ---------------------------------------------------------------------
+  epoch 1/1000 , train loss: 0.1314 , val loss; 0.27881984412670135
+ epoch 2/1000 , train loss: 0.1879 , val loss; 0.1549096815288067
+ epoch 3/1000 , train loss: 0.1286 , val loss; 0.013345971742334465
+ epoch 4/1000 , train loss: 0.0674 , val loss; 0.17761903814971447
+ epoch 5/1000 , train loss: 0.0575 , val loss; 0.014907500008121133
+ epoch 6/1000 , train loss: 0.0584 , val loss; 0.021659630350768566
+ epoch 7/1000 , train loss: 0.0864 , val loss; 0.01791603583842516
+ epoch 8/1000 , train loss: 0.0506 , val loss; 0.09368440384666125
+ epoch 9/1000 , train loss: 0.0466 , val loss; 0.9767851531505585
+ epoch 10/1000 , train loss: 0.0608 , val loss; 0.016854806570336223
+early stopping triggered after 10 epochs
+Test Loss: 0.0249
+MAPE: 14.81%
+----------------------------------------------------------------------------
+dataset:           timestamp      open      high       low     close  ...         MACD  MACD-signal    MACD-hist      BB_upper      BB_lower
+2769  1742169600000  82574.52  84756.83  82456.00  84010.03  ... -3066.865846 -3066.865846 -3066.865846  92113.807614  92113.807614
+2770  1742256000000  84010.02  84021.74  81134.66  82715.03  ... -2998.508047 -2998.508047 -2998.508047  92107.631059  92107.631059
+2771  1742342400000  82715.03  87000.00  82547.16  86845.94  ... -2857.970620 -2857.970620 -2857.970620  92254.817948  92254.817948
+2772  1742428800000  86845.93  87453.67  83655.23  84223.39  ... -2714.886965 -2714.886965 -2714.886965  92251.609121  92251.609121
+2773  1742515200000  84223.38  84850.33  83175.25  84088.79  ... -2573.667754 -2573.667754 -2573.667754  92154.570426  92154.570426
+
+[5 rows x 19 columns]
+min and max of timestamp:1502928000000-1742515200000
+min and max of open:3188.01-106143.82
+min and max of high:3276.5-109588.0
+min and max of low:2817.0-105321.49
+min and max of close:3189.02-106143.82
+min and max of volume:228.108068-760705.362783
+min and max of close_time:1503014399999-1742601599999999
+min and max of quote_asset_volume:977865.7333321-17465307097.88407
+min and max of number_of_trades:2153-15223589
+min and max of taker_buy_base:56.190141-374775.574085
+min and max of taker_buy_quote:241363.80050245-8783916247.676138
+min and max of ignore:0----0
+min and max of SMA_14:3422.6978571428567-103578.42785714287
+min and max of RSI_14:10.497797370369184-93.45927597449236
+min and max of MACD:-4435.851793146449-6402.010446864906
+min and max of MACD-signal:-4435.851793146449-6402.010446864906
+min and max of MACD-hist:-4435.851793146449-6402.010446864906
+min and max of BB_upper:3637.401000275189-108846.02334956186
+min and max of BB_lower:3637.401000275189-108846.02334956186
+ x_train rang:-2.488652467727661, 11.844185829162598
+y_train rang:-0.8267897963523865, 1.2415581941604614
+x_test rang:-1.7821334600448608, 6.476320266723633
+ y_test rang:1.0103670358657837, 2.435516119003296
+saved sclaer_x to: scaler_x.pkl
+saved scaler_y to : scaler_y.pkl
+ epoch 1/1000 , train loss: 0.2042 , val loss; 0.43901997804641724
+ epoch 2/1000 , train loss: 0.1896 , val loss; 0.47699980934460956
+ epoch 3/1000 , train loss: 0.1654 , val loss; 0.344736710190773
+ epoch 4/1000 , train loss: 0.1409 , val loss; 0.10716099912921588
+ epoch 5/1000 , train loss: 0.1128 , val loss; 0.2738223175207774
+ epoch 6/1000 , train loss: 0.0887 , val loss; 0.44171548386414844
+model saved with val loss: 0.44171548386414844
+ epoch 7/1000 , train loss: 0.0653 , val loss; 0.1278124339878559
+model saved with val loss: 0.1278124339878559
+ epoch 8/1000 , train loss: 0.0649 , val loss; 0.4258621235688527
+ epoch 9/1000 , train loss: 0.0603 , val loss; 0.2518206040064494
+ epoch 10/1000 , train loss: 0.0450 , val loss; 0.08704018654922645
+model saved with val loss: 0.08704018654922645
+ epoch 11/1000 , train loss: 0.0384 , val loss; 0.023272487179686625
+model saved with val loss: 0.023272487179686625
+ epoch 12/1000 , train loss: 0.0363 , val loss; 0.21001694972316423
+ epoch 13/1000 , train loss: 0.0339 , val loss; 0.20981227854887644
+ epoch 14/1000 , train loss: 0.0320 , val loss; 0.1909781557818254
+ epoch 15/1000 , train loss: 0.0305 , val loss; 0.06679784910132487
+ epoch 16/1000 , train loss: 0.0265 , val loss; 0.13958011443416277
+ epoch 17/1000 , train loss: 0.0230 , val loss; 0.17704446241259575
+ epoch 18/1000 , train loss: 0.0213 , val loss; 0.013914091512560844
+model saved with val loss: 0.013914091512560844
+ epoch 19/1000 , train loss: 0.0200 , val loss; 0.05159590844171665
+ epoch 20/1000 , train loss: 0.0261 , val loss; 0.2513527646660805
+ epoch 21/1000 , train loss: 0.0265 , val loss; 0.6190575758616129
+ epoch 22/1000 , train loss: 0.0211 , val loss; 0.11133915496369202
+ epoch 23/1000 , train loss: 0.0217 , val loss; 0.18917263175050417
+ epoch 24/1000 , train loss: 0.0228 , val loss; 0.21907059227426848
+ epoch 25/1000 , train loss: 0.0177 , val loss; 0.6081574112176895
+ epoch 26/1000 , train loss: 0.0150 , val loss; 0.26596125960350037
+ epoch 27/1000 , train loss: 0.0150 , val loss; 0.27032944063345593
+ epoch 28/1000 , train loss: 0.0147 , val loss; 0.06901537689069907
+early stopping triggered after 28 epochs
+Test Loss: 0.0147
+MAPE: 8.10%
+RMSE: 0.1870
+SMAPE: 8.44%
+Total time: 63.26 seconds
+PS D:\project\python\ds\BTC_p> & E:/anaconda3/envs/BTCUSDT/python.exe d:/project/python/ds/BTC_p/lstm.py
+          timestamp     close
+2769  1742169600000  84010.03
+2770  1742256000000  82715.03
+2771  1742342400000  86845.94
+2772  1742428800000  84223.39
+2773  1742515200000  84088.79
+min close: 78595.86
+min close: 78595.86
+max close: 106143.82
+max close: 106143.82
+input size: 15
+input size: 15
+min/max data:
+min/max data:
+ min: -1.7821335052406073
+ min: -1.7821335052406073
+max: 6.476320377965263
+Raw output: tensor([[1.7710]])
+87736.7890625
